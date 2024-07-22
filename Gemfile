@@ -46,3 +46,6 @@ end
 group :production do
   gem 'mysql2', '~> 0.5'
 end
+
+gem 'devise'
+gem 'devise_token_auth'
